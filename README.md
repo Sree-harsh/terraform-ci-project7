@@ -1,1 +1,2 @@
 # terraform-ci-project7
+[![Terraform CI](https://github.com/Sree-harsh/terraform-ci-project7/actions/workflows/ci.yml/badge.svg)](https://github.com/Sree-harsh/terraform-ci-project7/actions/workflows/ci.yml)
